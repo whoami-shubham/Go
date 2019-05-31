@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div>
+            <h1>Hello World !</h1>
+        </div>
+        <ul>
+            {{range $index, $value := .}}
+            <li>{{$index}} - {{$value}}</li>
+            {{end}}
+        </ul>
+    </body>
+</html>

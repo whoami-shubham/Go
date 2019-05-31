@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title></title>
+                <style>
+                    ul{
+                        list-style-type: none;
+                        display: flex;
+                    }
+                    li{
+                        padding-left:1.5rem;
+                    }
+                    a:visited{
+                        color:red;
+                    }
+                </style>
+                
+        </head>
+        <body>
+            <nav>
+                {{if .}}
+                   <code>{{.}}</code>
+                {{end}}
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                </ul>
+            </nav>
+        </body>
+</html>
