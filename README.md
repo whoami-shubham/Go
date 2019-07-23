@@ -16,7 +16,7 @@
      <details><summary>text/templates</summary>
        
   - [introduction](https://github.com/whoami-shubham/Go/tree/master/go_web/Templates/text_template)
-  - [parsing data to template](https://github.com/whoam-shubham/Go/blob/master/go_web/Templates/text_template/01/parsing_data_into_template.go)
+  - [parsing data to template](https://github.com/whoami-shubham/Go/blob/master/go_web/Templates/text_template/01/parsing_data_into_template.go)
   - [better way to parse](https://github.com/whoami-shubham/Go/blob/master/go_web/Templates/text_template/02/better_way_to_parse_data.go)
   - [passing data into template ](https://github.com/whoami-shubham/Go/blob/master/go_web/Templates/text_template/03/passing_data_to_template.go)
   - [passing complex data and creating variables](https://github.com/whoami-shubham/Go/blob/master/go_web/Templates/text_template/04/variables_in_template.go)
